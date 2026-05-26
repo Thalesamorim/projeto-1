@@ -1,2 +1,3 @@
 const nome = 'Thales';
-console.log(nome);
+const ano = 2004;
+console.log(nome, ano);
