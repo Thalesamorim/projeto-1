@@ -1,2 +1,3 @@
 const nome = 'Thales';
-console.log(nome);
+const idade = 21;
+console.log(nome, idade);
